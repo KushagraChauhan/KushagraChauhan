@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on [Vibe Gurukul](https://vibegurukul.com) and [Kids-VG](kids.vibegurukul.com)
+I am currently working on [Vibe Gurukul](https://vibegurukul.com) and [Kids-VG](https://kids.vibegurukul.com)
 
 
 # 💻 Tech Stack:
